@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">AgriLink360</string>
+    <string name="analytics">Analytics</string>
+    <string name="trading_stats">Trading Stats</string>
+    <string name="monthly_revenue">Monthly Revenue</string>
+    <string name="_1_50_000">₹1,50,000</string>
+    <string name="total_suppliers">Total Suppliers</string>
+    <string name="_8">8</string>
+    <string name="active_orders">Active Orders</string>
+    <string name="_12">12</string>
+    <string name="payments">Payments</string>
+    <string name="market_prices">Market Prices</string>
+    <string name="recent_transactions">Recent Transactions</string>
+    <string name="tomatoes_5_000_completed">Tomatoes - ₹5,000 - Completed</string>
+    <string name="wheat_12_000_pending">Wheat - ₹12,000 - Pending</string>
+    <string name="rice_8_500_completed">Rice - ₹8,500 - Completed</string>
+    <string name="todo">TODO</string>
+    <string name="welcome_trader">Welcome Trader!</string>
+    <string name="manage_your_trading_operations">Manage your trading operations</string>
+    <string name="buy_produce">Buy Produce</string>
 </resources>

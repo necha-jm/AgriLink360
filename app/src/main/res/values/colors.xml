@@ -2,4 +2,20 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="primary">#4CAF50</color>
+    <color name="primary_dark">#388E3C</color>
+    <color name="primary_light">#C8E6C9</color>
+    <color name="accent">#FF9800</color>
+
+    <!-- User type colors -->
+    <color name="farmer_green">#4CAF50</color>
+    <color name="trader_blue">#2196F3</color>
+    <color name="specialist_purple">#9C27B0</color>
+
+    <!-- Background colors -->
+    <color name="light_gray">#F5F5F5</color>
+    <color name="dark_gray">#757575</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
 </resources>
